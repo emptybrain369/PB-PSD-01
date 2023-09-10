@@ -88,3 +88,20 @@ footer{
     color: gray;
     padding: 10px 15px;
 }
+@media all and (max-width: 500px){
+.col{
+    width: 98%;
+}
+h2{
+    font-size: 40px;
+}
+.abm{
+    font-size: 20px;
+    text-align: justify;
+}
+}
+@media all and (max-width: 768px){
+.what-i-do{
+padding: 15px 10%;
+}
+ }
